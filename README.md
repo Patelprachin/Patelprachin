@@ -8,9 +8,11 @@
 ## Projects and Work
 - **[MSc Dissertation: Very Short-Dated Options Pricing](https://github.com/Patelprachin/Very-Short-Dated-Options-Pricing)**: Conducted in-sample and out-of-sample analysis on calibrated Lévy models and stochastic volatility models to determine which best captures the dynamics of very short maturity options.
 
+- **[Momentum Trading Strategy Analysis](https://github.com/Patelprachin/Momentum_Trading_Strategy_Backtest_and_Performance_Analysis)**: Conducted comprehensive analysis of momentum-based trading strategies applied to S&P 500 equities.
+
 - **[Advanced Stochastic Calculus](https://github.com/Patelprachin/Advanced-Stochastic-Calculus)**: Implemented the TRUST and CGMY models to perform gamma hedging and analyzed its error while considering different pricing measures such as the Esscher measure, minimal entropy martingale measure, and variance-optimal martingale measure.
 
-- **[Momentum Trading Strategy Analysis](https://github.com/Patelprachin/Momentum_Trading_Strategy_Backtest_and_Performance_Analysis)**: Conducted comprehensive analysis of momentum-based trading strategies applied to S&P 500 equities.
+- **[LSTM Trading Strategy Analysis](https://github.com/Patelprachin/LSTM_Based_Trading_Strategy)**: Implementation of a Long Short-Term Memory (LSTM)-based trading strategy aimed at predicting financial market movements.
 
 - **[Bond Price Prediction Model Using Machine Learning with Scikit-Learn](https://github.com/Patelprachin/Bond-Price-Prediction-Model-Machine-Learning-With-Scikit-Learn)**: Tested models like ridge regression and Random Forest to find the optimal fit with hyperparameter tuning for the lowest Root Mean Square Error (RMSE) loss.
 
